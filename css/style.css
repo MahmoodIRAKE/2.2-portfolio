@@ -1,0 +1,56 @@
+body {
+    background-image: url("../Images/mainIamge.png");
+    align-items: center;
+}
+
+#header-1 {
+    height: 100px;
+    margin-left: 0px;
+    margin-right: 20px;
+    color: white;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+#profile-image {
+    border: 1px;
+    border-radius: 90px;
+    float: right;
+    height: 100px;
+}
+
+#first-card {
+    width: 100%;
+    box-shadow: 5px 5px 5px 5px black;
+    height: 200px;
+    color: honeydew;
+    align-items: center;
+    text-align: center;
+    margin-right: 20px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+#image-block {
+    height: 200px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+ul li {
+    display: inline-block;
+    width: 30%;
+}
+
+ul {
+    text-align: center;
+    color: honeydew;
+}
+
+.card-1 {
+    width: 100%;
+    box-shadow: 5px 5px 5px 5px black;
+    height: 200px;
+    color: honeydew;
+    align-items: center;
+    text-align: center;
+    margin-right: 20px;
+}
