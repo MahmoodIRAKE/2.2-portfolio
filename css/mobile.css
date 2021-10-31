@@ -1,0 +1,31 @@
+.navbar li {
+    float: none;
+}
+
+.main {
+    box-shadow: 5px 5px 5px 5px;
+    float: none;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    color: white;
+}
+
+.side {
+    box-shadow: 5px 5px 5px 5px;
+    float: none;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    padding-right: 30px;
+    color: white;
+}
+
+.navbar {
+    list-style: none;
+    text-align: center;
+    margin: auto;
+    background: #2f2338;
+    border-radius: 5px;
+    overflow: auto;
+}

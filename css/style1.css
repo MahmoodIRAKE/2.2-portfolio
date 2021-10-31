@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    text-align: center;
+    align-items: center;
+    margin-bottom: 10px;
+    box-shadow: 4px 4px 4px 4px;
+    height: 100px;
+    color: white;
+}
+
+.main {
+    box-shadow: 5px 5px 5px 5px;
+    float: right;
+    width: 79%;
+    text-align: center;
+    align-items: center;
+    height: 300px;
+    color: white;
+}
+
+.side {
+    box-shadow: 5px 5px 5px 5px;
+    float: left;
+    width: 20%;
+    text-align: center;
+    align-items: center;
+    height: 300px;
+    padding-right: 30px;
+    color: white;
+}
+
+.clr {
+    clear: both;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#profile-image {
+    float: left;
+    height: 100px;
+}
+
+body {
+    background: url("../Images/mainIamge.png") center center/cover;
+}
